@@ -1,0 +1,9 @@
+c:\users\joakim\documents\visual studio 2012\Projects\ConsoleApplicationAtea\ConsoleApplicationAtea\bin\Debug\ConsoleApplicationAtea.exe.config
+c:\users\joakim\documents\visual studio 2012\Projects\ConsoleApplicationAtea\ConsoleApplicationAtea\bin\Debug\ConsoleApplicationAtea.exe
+c:\users\joakim\documents\visual studio 2012\Projects\ConsoleApplicationAtea\ConsoleApplicationAtea\bin\Debug\ConsoleApplicationAtea.pdb
+c:\users\joakim\documents\visual studio 2012\Projects\ConsoleApplicationAtea\ConsoleApplicationAtea\obj\Debug\ConsoleApplicationAtea.exe
+c:\users\joakim\documents\visual studio 2012\Projects\ConsoleApplicationAtea\ConsoleApplicationAtea\obj\Debug\ConsoleApplicationAtea.pdb
+C:\Users\Joakim\documents\visual studio 2012\Projects\ConsoleApplicationAtea\ConsoleApplicationAtea\obj\Debug\ConsoleApplicationAtea.csprojResolveAssemblyReference.cache
+C:\Users\Joakim\Desktop\Atea\ConsoleApplicationAtea\ConsoleApplicationAtea\bin\Debug\ConsoleApplicationAtea.exe.config
+C:\Users\Joakim\Desktop\Atea\ConsoleApplicationAtea\ConsoleApplicationAtea\obj\Debug\ConsoleApplicationAtea.exe
+C:\Users\Joakim\Desktop\Atea\ConsoleApplicationAtea\ConsoleApplicationAtea\obj\Debug\ConsoleApplicationAtea.pdb
